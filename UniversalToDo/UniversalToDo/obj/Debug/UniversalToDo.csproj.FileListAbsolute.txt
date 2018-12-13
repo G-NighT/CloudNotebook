@@ -1,0 +1,16 @@
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\РАЗРАБОТКА ПРОГРАММНЫХ ПРИЛОЖЕНИЙ\5 СЕМЕСТР\Windows\UniversalToDo\UniversalToDo\bin\Debug\UniversalToDo.exe.config
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\РАЗРАБОТКА ПРОГРАММНЫХ ПРИЛОЖЕНИЙ\5 СЕМЕСТР\Windows\UniversalToDo\UniversalToDo\bin\Debug\UniversalToDo.exe
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\РАЗРАБОТКА ПРОГРАММНЫХ ПРИЛОЖЕНИЙ\5 СЕМЕСТР\Windows\UniversalToDo\UniversalToDo\bin\Debug\UniversalToDo.pdb
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\РАЗРАБОТКА ПРОГРАММНЫХ ПРИЛОЖЕНИЙ\5 СЕМЕСТР\Windows\UniversalToDo\UniversalToDo\obj\Debug\UniversalToDo.csprojResolveAssemblyReference.cache
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\РАЗРАБОТКА ПРОГРАММНЫХ ПРИЛОЖЕНИЙ\5 СЕМЕСТР\Windows\UniversalToDo\UniversalToDo\obj\Debug\MainWindow.g.cs
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\РАЗРАБОТКА ПРОГРАММНЫХ ПРИЛОЖЕНИЙ\5 СЕМЕСТР\Windows\UniversalToDo\UniversalToDo\obj\Debug\App.g.cs
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\РАЗРАБОТКА ПРОГРАММНЫХ ПРИЛОЖЕНИЙ\5 СЕМЕСТР\Windows\UniversalToDo\UniversalToDo\obj\Debug\UniversalToDo_MarkupCompile.cache
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\РАЗРАБОТКА ПРОГРАММНЫХ ПРИЛОЖЕНИЙ\5 СЕМЕСТР\Windows\UniversalToDo\UniversalToDo\obj\Debug\UniversalToDo_MarkupCompile.lref
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\РАЗРАБОТКА ПРОГРАММНЫХ ПРИЛОЖЕНИЙ\5 СЕМЕСТР\Windows\UniversalToDo\UniversalToDo\obj\Debug\MainWindow.baml
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\РАЗРАБОТКА ПРОГРАММНЫХ ПРИЛОЖЕНИЙ\5 СЕМЕСТР\Windows\UniversalToDo\UniversalToDo\obj\Debug\UniversalToDo.g.resources
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\РАЗРАБОТКА ПРОГРАММНЫХ ПРИЛОЖЕНИЙ\5 СЕМЕСТР\Windows\UniversalToDo\UniversalToDo\obj\Debug\UniversalToDo.Properties.Resources.resources
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\РАЗРАБОТКА ПРОГРАММНЫХ ПРИЛОЖЕНИЙ\5 СЕМЕСТР\Windows\UniversalToDo\UniversalToDo\obj\Debug\UniversalToDo.csproj.GenerateResource.Cache
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\РАЗРАБОТКА ПРОГРАММНЫХ ПРИЛОЖЕНИЙ\5 СЕМЕСТР\Windows\UniversalToDo\UniversalToDo\obj\Debug\UniversalToDo.exe
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\РАЗРАБОТКА ПРОГРАММНЫХ ПРИЛОЖЕНИЙ\5 СЕМЕСТР\Windows\UniversalToDo\UniversalToDo\obj\Debug\UniversalToDo.pdb
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\РАЗРАБОТКА ПРОГРАММНЫХ ПРИЛОЖЕНИЙ\5 СЕМЕСТР\Windows\UniversalToDo\UniversalToDo\bin\Debug\Newtonsoft.Json.dll
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\РАЗРАБОТКА ПРОГРАММНЫХ ПРИЛОЖЕНИЙ\5 СЕМЕСТР\Windows\UniversalToDo\UniversalToDo\bin\Debug\xNet.dll

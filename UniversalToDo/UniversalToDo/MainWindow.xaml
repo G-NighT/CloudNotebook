@@ -1,0 +1,20 @@
+﻿<Window x:Class="UniversalToDo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UniversalToDo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="1080" Width="1920">
+    <Grid OpacityMask="Black" Background="Black">
+        <Button Content="Button" Margin="10,234,0,0" HorizontalAlignment="Left" Width="933" Height="131" VerticalAlignment="Top" Background="White"/>
+        <TextBox Name="note" HorizontalAlignment="Left" Height="107" Margin="10,10,0,0" TextWrapping="Wrap" Text="Заметка" VerticalAlignment="Top" Width="1892" Background="White" FontSize="72" FontWeight="Bold" TextAlignment="Center"/>
+        <TextBox Name="desc" HorizontalAlignment="Left" Height="107" Margin="10,122,0,0" TextWrapping="Wrap" Text="Описание" VerticalAlignment="Top" Width="1892" Background="White" FontSize="72" TextAlignment="Center"/>
+        <Button Content="ПОКАЗАТЬ ВСЕХ" Margin="10,234,0,0" HorizontalAlignment="Left" Width="953" Height="131" VerticalAlignment="Top" Background="White" FontSize="72" Click="Button_Click_2"/>
+        <Button Content="ДОБАВИТЬ" Margin="968,234,0,0" HorizontalAlignment="Left" Width="933" Height="131" VerticalAlignment="Top" Background="White" FontSize="72" Click="Button_Click"/>
+        <TextBox HorizontalAlignment="Left" Name="id" Height="107" Margin="0,932,0,0" TextWrapping="Wrap" Text="Номер" VerticalAlignment="Top" Width="963" Background="White" FontSize="72" TextAlignment="Right" SpellCheck.IsEnabled="True"/>
+        <Button Content="УДАЛИТЬ" Margin="968,932,0,0" HorizontalAlignment="Left" Width="934" Height="107" VerticalAlignment="Top" Background="White" FontSize="72" Click="Button_Click_1"/>
+        <TextBlock HorizontalAlignment="Left" Name="res" Margin="10,370,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="557" Width="1891" FontSize="48" TextAlignment="Center" Foreground="White"/>
+
+    </Grid>
+</Window>
